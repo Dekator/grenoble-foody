@@ -1,0 +1,1 @@
+Les fonctions sont spécifiées dans le code python.

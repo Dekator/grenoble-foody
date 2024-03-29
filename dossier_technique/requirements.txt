@@ -1,0 +1,10 @@
+L'application necessite une installation au préalable de python.
+Un editeur python comme spyder ou vscode est conseillé pour un acces plus simple a la console.
+
+Pour l'affichage de la map, 
+il faut importer la bilbilhoteque tkintermapview 
+c'est à dire qu'il faut écrire dans sa console le code suivant : 
+pip install tkintermapview
+
+Si vous n'y arrivez pas, il est possible d'acceder a la console en écrivant
+cmd dans le champ de recherche windows en bas a gauche du pc.
